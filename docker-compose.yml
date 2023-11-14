@@ -1,0 +1,8 @@
+version: '2.7'
+services:
+  app-bk:
+    build: ./
+    ports:
+      - "8183:80"
+    volumes:
+      - "./:/var/www"

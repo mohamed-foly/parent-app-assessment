@@ -1,0 +1,810 @@
+[
+    {
+        "parentAmount": 200,
+        "Currency": "USD",
+        "parentEmail": "parent1@parent.eu",
+        "statusCode": 1,
+        "registerationDate": "2018-11-30",
+        "parentIdentification": "d3d29d70-1d25-11e3-8591-034165a3a613"
+    },
+    {
+        "parentAmount": 868,
+        "Currency": "USD",
+        "parentEmail": "parent1@example.com",
+        "statusCode": 1,
+        "registerationDate": "2002-09-24",
+        "parentIdentification": "a89d03b7-7919-382f-97c8-c3a06abc633c"
+    },
+    {
+        "parentAmount": 797,
+        "Currency": "EUR",
+        "parentEmail": "parent2@example.com",
+        "statusCode": 2,
+        "registerationDate": "2019-03-06",
+        "parentIdentification": "c9840e03-e498-3320-acbc-7a79ee8d14e8"
+    },
+    {
+        "parentAmount": 990,
+        "Currency": "EUR",
+        "parentEmail": "parent3@example.com",
+        "statusCode": 1,
+        "registerationDate": "1976-06-26",
+        "parentIdentification": "22b89f6a-a4c8-379a-80c8-cb711c812c4e"
+    },
+    {
+        "parentAmount": 318,
+        "Currency": "CAD",
+        "parentEmail": "parent4@example.com",
+        "statusCode": 1,
+        "registerationDate": "1984-04-17",
+        "parentIdentification": "c7fe1210-b8fb-3419-bddf-12a5e699844a"
+    },
+    {
+        "parentAmount": 239,
+        "Currency": "USD",
+        "parentEmail": "parent5@example.com",
+        "statusCode": 2,
+        "registerationDate": "2008-12-31",
+        "parentIdentification": "2de21e19-d589-3536-a383-98f89cefd2a0"
+    },
+    {
+        "parentAmount": 242,
+        "Currency": "AUD",
+        "parentEmail": "parent6@example.com",
+        "statusCode": 3,
+        "registerationDate": "1975-10-27",
+        "parentIdentification": "0eb2ebb9-ab7b-3837-97b4-c3306361ca6f"
+    },
+    {
+        "parentAmount": 925,
+        "Currency": "EUR",
+        "parentEmail": "parent7@example.com",
+        "statusCode": 1,
+        "registerationDate": "2021-01-18",
+        "parentIdentification": "38759421-f1a8-34ad-a022-fa30df081e97"
+    },
+    {
+        "parentAmount": 461,
+        "Currency": "AUD",
+        "parentEmail": "parent8@example.com",
+        "statusCode": 1,
+        "registerationDate": "1970-03-06",
+        "parentIdentification": "5dbebff4-4520-336a-a1d3-b7d76192c3fe"
+    },
+    {
+        "parentAmount": 265,
+        "Currency": "GBP",
+        "parentEmail": "parent9@example.com",
+        "statusCode": 3,
+        "registerationDate": "2010-08-27",
+        "parentIdentification": "9cf8e469-9471-36e0-97db-ac59ae754ccc"
+    },
+    {
+        "parentAmount": 730,
+        "Currency": "AUD",
+        "parentEmail": "parent10@example.com",
+        "statusCode": 2,
+        "registerationDate": "2023-05-23",
+        "parentIdentification": "a497f8d6-5198-3af2-bcdd-e54ebbc370d8"
+    },
+    {
+        "parentAmount": 204,
+        "Currency": "GBP",
+        "parentEmail": "parent11@example.com",
+        "statusCode": 1,
+        "registerationDate": "2000-10-21",
+        "parentIdentification": "b1ac3f92-53e7-3692-8671-6bbf239e166e"
+    },
+    {
+        "parentAmount": 872,
+        "Currency": "GBP",
+        "parentEmail": "parent12@example.com",
+        "statusCode": 2,
+        "registerationDate": "2022-11-10",
+        "parentIdentification": "0fc78db7-a8ac-3be1-b59c-fcf9e8300c76"
+    },
+    {
+        "parentAmount": 217,
+        "Currency": "GBP",
+        "parentEmail": "parent13@example.com",
+        "statusCode": 2,
+        "registerationDate": "1971-04-13",
+        "parentIdentification": "ab312811-c1ee-3002-b4c3-9ce3f11aa546"
+    },
+    {
+        "parentAmount": 932,
+        "Currency": "EUR",
+        "parentEmail": "parent14@example.com",
+        "statusCode": 3,
+        "registerationDate": "1985-03-11",
+        "parentIdentification": "691e666a-7fbd-3708-b7f8-2373773f6bf0"
+    },
+    {
+        "parentAmount": 572,
+        "Currency": "USD",
+        "parentEmail": "parent15@example.com",
+        "statusCode": 1,
+        "registerationDate": "2015-08-21",
+        "parentIdentification": "92b3a5f2-e419-3e1f-aaff-5ba75ab43810"
+    },
+    {
+        "parentAmount": 130,
+        "Currency": "CAD",
+        "parentEmail": "parent16@example.com",
+        "statusCode": 2,
+        "registerationDate": "2018-04-05",
+        "parentIdentification": "dd24156b-0a5d-32be-a6c3-c25fafb54c50"
+    },
+    {
+        "parentAmount": 142,
+        "Currency": "USD",
+        "parentEmail": "parent17@example.com",
+        "statusCode": 2,
+        "registerationDate": "1984-11-01",
+        "parentIdentification": "11519139-eb59-36ae-b6fe-c8b74cbc2b45"
+    },
+    {
+        "parentAmount": 964,
+        "Currency": "GBP",
+        "parentEmail": "parent18@example.com",
+        "statusCode": 1,
+        "registerationDate": "1980-03-21",
+        "parentIdentification": "90df9745-ba84-3427-aa05-695c4145a587"
+    },
+    {
+        "parentAmount": 789,
+        "Currency": "CAD",
+        "parentEmail": "parent19@example.com",
+        "statusCode": 3,
+        "registerationDate": "1985-09-30",
+        "parentIdentification": "a4ef03d0-4ba9-3a1e-a660-7aa29cd1900e"
+    },
+    {
+        "parentAmount": 862,
+        "Currency": "AUD",
+        "parentEmail": "parent20@example.com",
+        "statusCode": 1,
+        "registerationDate": "1988-01-19",
+        "parentIdentification": "33c6e9bd-f448-3c6e-963d-dda6f6488295"
+    },
+    {
+        "parentAmount": 901,
+        "Currency": "AUD",
+        "parentEmail": "parent21@example.com",
+        "statusCode": 3,
+        "registerationDate": "1972-09-22",
+        "parentIdentification": "6f8b4fa2-496d-36a1-9270-42c284b74ce9"
+    },
+    {
+        "parentAmount": 634,
+        "Currency": "EUR",
+        "parentEmail": "parent22@example.com",
+        "statusCode": 2,
+        "registerationDate": "1976-02-28",
+        "parentIdentification": "5fd66aa8-bb70-30b3-8f01-ff3a28cfaac1"
+    },
+    {
+        "parentAmount": 138,
+        "Currency": "AUD",
+        "parentEmail": "parent23@example.com",
+        "statusCode": 3,
+        "registerationDate": "1997-06-24",
+        "parentIdentification": "956f3c1d-081d-35b0-86a0-70e97dd7c098"
+    },
+    {
+        "parentAmount": 611,
+        "Currency": "CAD",
+        "parentEmail": "parent24@example.com",
+        "statusCode": 1,
+        "registerationDate": "1995-04-18",
+        "parentIdentification": "ab9f0505-eb6c-3241-836e-20ffe8a254d3"
+    },
+    {
+        "parentAmount": 476,
+        "Currency": "USD",
+        "parentEmail": "parent25@example.com",
+        "statusCode": 2,
+        "registerationDate": "2001-12-10",
+        "parentIdentification": "b073b08e-7d09-3635-9a66-c9da8a43a110"
+    },
+    {
+        "parentAmount": 871,
+        "Currency": "USD",
+        "parentEmail": "parent26@example.com",
+        "statusCode": 2,
+        "registerationDate": "2012-05-28",
+        "parentIdentification": "efa78831-5beb-3ed0-a03c-9941dfd64618"
+    },
+    {
+        "parentAmount": 302,
+        "Currency": "GBP",
+        "parentEmail": "parent27@example.com",
+        "statusCode": 2,
+        "registerationDate": "1995-02-17",
+        "parentIdentification": "63a77a8a-7e64-3d23-be6d-eeade8c81a02"
+    },
+    {
+        "parentAmount": 215,
+        "Currency": "GBP",
+        "parentEmail": "parent28@example.com",
+        "statusCode": 3,
+        "registerationDate": "2018-02-26",
+        "parentIdentification": "a8dd423f-b8ca-3732-9fc0-5668a97e8a5c"
+    },
+    {
+        "parentAmount": 135,
+        "Currency": "EUR",
+        "parentEmail": "parent29@example.com",
+        "statusCode": 2,
+        "registerationDate": "2018-09-02",
+        "parentIdentification": "6f588c03-e18c-3db9-8fef-a798ae54990f"
+    },
+    {
+        "parentAmount": 341,
+        "Currency": "AUD",
+        "parentEmail": "parent30@example.com",
+        "statusCode": 3,
+        "registerationDate": "1997-02-22",
+        "parentIdentification": "881c7683-ae21-3015-8eec-7bc3f318b24a"
+    },
+    {
+        "parentAmount": 868,
+        "Currency": "EUR",
+        "parentEmail": "parent31@example.com",
+        "statusCode": 2,
+        "registerationDate": "2020-10-27",
+        "parentIdentification": "f1756168-ccdc-3dd0-84ba-53986bc11a50"
+    },
+    {
+        "parentAmount": 167,
+        "Currency": "CAD",
+        "parentEmail": "parent32@example.com",
+        "statusCode": 3,
+        "registerationDate": "1996-02-21",
+        "parentIdentification": "204ce813-66a7-3bf6-87bb-11daf4b5a449"
+    },
+    {
+        "parentAmount": 872,
+        "Currency": "CAD",
+        "parentEmail": "parent33@example.com",
+        "statusCode": 3,
+        "registerationDate": "1971-03-21",
+        "parentIdentification": "6acb9cc0-e377-3f93-9ce2-41374a0c8715"
+    },
+    {
+        "parentAmount": 992,
+        "Currency": "EUR",
+        "parentEmail": "parent34@example.com",
+        "statusCode": 2,
+        "registerationDate": "2000-03-30",
+        "parentIdentification": "d367faaf-be02-33e3-aa02-68a20ad8e483"
+    },
+    {
+        "parentAmount": 940,
+        "Currency": "GBP",
+        "parentEmail": "parent35@example.com",
+        "statusCode": 1,
+        "registerationDate": "2021-11-08",
+        "parentIdentification": "84af6a89-f83f-3b7a-9610-1f9a419a39dd"
+    },
+    {
+        "parentAmount": 581,
+        "Currency": "EUR",
+        "parentEmail": "parent36@example.com",
+        "statusCode": 2,
+        "registerationDate": "1986-07-22",
+        "parentIdentification": "2e8544ef-8a69-3396-a57e-538c16037d7a"
+    },
+    {
+        "parentAmount": 770,
+        "Currency": "USD",
+        "parentEmail": "parent37@example.com",
+        "statusCode": 1,
+        "registerationDate": "1999-06-27",
+        "parentIdentification": "bbba16c9-776c-3138-99fe-cac7f5052a07"
+    },
+    {
+        "parentAmount": 832,
+        "Currency": "EUR",
+        "parentEmail": "parent38@example.com",
+        "statusCode": 2,
+        "registerationDate": "1972-08-08",
+        "parentIdentification": "8f92e0df-2d10-3745-ba29-3147175a8e4b"
+    },
+    {
+        "parentAmount": 924,
+        "Currency": "CAD",
+        "parentEmail": "parent39@example.com",
+        "statusCode": 1,
+        "registerationDate": "2021-11-13",
+        "parentIdentification": "8e01cc47-639a-3851-9652-c0fe18cd3b9c"
+    },
+    {
+        "parentAmount": 351,
+        "Currency": "CAD",
+        "parentEmail": "parent40@example.com",
+        "statusCode": 1,
+        "registerationDate": "1977-12-05",
+        "parentIdentification": "c715630a-6439-37f4-a2c2-34a27af8d904"
+    },
+    {
+        "parentAmount": 920,
+        "Currency": "EUR",
+        "parentEmail": "parent41@example.com",
+        "statusCode": 3,
+        "registerationDate": "1974-01-28",
+        "parentIdentification": "ba3445a6-19c1-3d8f-9ce1-2cb183d60aef"
+    },
+    {
+        "parentAmount": 636,
+        "Currency": "GBP",
+        "parentEmail": "parent42@example.com",
+        "statusCode": 2,
+        "registerationDate": "2001-07-25",
+        "parentIdentification": "b93f0a59-71c0-3886-9ba7-217f38db18a7"
+    },
+    {
+        "parentAmount": 128,
+        "Currency": "AUD",
+        "parentEmail": "parent43@example.com",
+        "statusCode": 3,
+        "registerationDate": "1996-11-18",
+        "parentIdentification": "bc9c62c7-1487-3f9b-9cf3-d90b6b81976c"
+    },
+    {
+        "parentAmount": 683,
+        "Currency": "EUR",
+        "parentEmail": "parent44@example.com",
+        "statusCode": 3,
+        "registerationDate": "1981-12-25",
+        "parentIdentification": "98b318e0-f691-3362-8d05-9b0d3c3aca21"
+    },
+    {
+        "parentAmount": 977,
+        "Currency": "CAD",
+        "parentEmail": "parent45@example.com",
+        "statusCode": 2,
+        "registerationDate": "1990-05-06",
+        "parentIdentification": "cc9455b4-651f-35e0-9b54-62557e165823"
+    },
+    {
+        "parentAmount": 115,
+        "Currency": "USD",
+        "parentEmail": "parent46@example.com",
+        "statusCode": 3,
+        "registerationDate": "2019-02-02",
+        "parentIdentification": "28d0699c-a0e3-3f08-bb76-8c2df345f72c"
+    },
+    {
+        "parentAmount": 516,
+        "Currency": "AUD",
+        "parentEmail": "parent47@example.com",
+        "statusCode": 1,
+        "registerationDate": "1972-11-07",
+        "parentIdentification": "63dd81fb-f599-344c-b34a-c4a8522e8483"
+    },
+    {
+        "parentAmount": 131,
+        "Currency": "CAD",
+        "parentEmail": "parent48@example.com",
+        "statusCode": 2,
+        "registerationDate": "1986-11-27",
+        "parentIdentification": "a2359173-5fe7-3e80-901c-c2b90641c526"
+    },
+    {
+        "parentAmount": 901,
+        "Currency": "EUR",
+        "parentEmail": "parent49@example.com",
+        "statusCode": 2,
+        "registerationDate": "1987-10-02",
+        "parentIdentification": "eaa661c1-b9d6-3765-81df-942721c93133"
+    },
+    {
+        "parentAmount": 464,
+        "Currency": "GBP",
+        "parentEmail": "parent50@example.com",
+        "statusCode": 1,
+        "registerationDate": "2020-09-06",
+        "parentIdentification": "57acf2d3-a5ef-3d0c-8489-4b36919516bd"
+    },
+    {
+        "parentAmount": 746,
+        "Currency": "GBP",
+        "parentEmail": "parent51@example.com",
+        "statusCode": 3,
+        "registerationDate": "2016-04-17",
+        "parentIdentification": "c52dd434-49b0-3ff3-b21c-ad5b4e82bca2"
+    },
+    {
+        "parentAmount": 560,
+        "Currency": "EUR",
+        "parentEmail": "parent52@example.com",
+        "statusCode": 1,
+        "registerationDate": "1990-02-23",
+        "parentIdentification": "6ea0f3b7-2d30-3dae-b335-cdd34ab0ae49"
+    },
+    {
+        "parentAmount": 407,
+        "Currency": "EUR",
+        "parentEmail": "parent53@example.com",
+        "statusCode": 1,
+        "registerationDate": "1975-12-03",
+        "parentIdentification": "2ba28760-c454-3457-a891-e298527de092"
+    },
+    {
+        "parentAmount": 353,
+        "Currency": "AUD",
+        "parentEmail": "parent54@example.com",
+        "statusCode": 1,
+        "registerationDate": "1990-05-05",
+        "parentIdentification": "ab8dbdc0-4bcc-36b1-af2c-a2fe0cb7e444"
+    },
+    {
+        "parentAmount": 100,
+        "Currency": "AUD",
+        "parentEmail": "parent55@example.com",
+        "statusCode": 2,
+        "registerationDate": "2011-10-29",
+        "parentIdentification": "4ec6ce96-266d-3c74-8fa9-7b7a7b9377be"
+    },
+    {
+        "parentAmount": 182,
+        "Currency": "GBP",
+        "parentEmail": "parent56@example.com",
+        "statusCode": 1,
+        "registerationDate": "1990-05-04",
+        "parentIdentification": "2f9a23ac-bd46-3d2b-8234-3df5d7d78be5"
+    },
+    {
+        "parentAmount": 589,
+        "Currency": "AUD",
+        "parentEmail": "parent57@example.com",
+        "statusCode": 3,
+        "registerationDate": "1982-04-24",
+        "parentIdentification": "e61abd87-caad-3e59-885f-a69b9f4c95db"
+    },
+    {
+        "parentAmount": 356,
+        "Currency": "EUR",
+        "parentEmail": "parent58@example.com",
+        "statusCode": 1,
+        "registerationDate": "2020-04-14",
+        "parentIdentification": "7f11d610-9064-34c2-b4b0-e83a61bd3f4c"
+    },
+    {
+        "parentAmount": 260,
+        "Currency": "EUR",
+        "parentEmail": "parent59@example.com",
+        "statusCode": 2,
+        "registerationDate": "2015-07-26",
+        "parentIdentification": "4189e912-bae9-39a1-8bb0-a6f88fd7fa7a"
+    },
+    {
+        "parentAmount": 625,
+        "Currency": "AUD",
+        "parentEmail": "parent60@example.com",
+        "statusCode": 2,
+        "registerationDate": "2009-05-31",
+        "parentIdentification": "e3bed160-8701-3dda-a6e6-d80455959af1"
+    },
+    {
+        "parentAmount": 644,
+        "Currency": "AUD",
+        "parentEmail": "parent61@example.com",
+        "statusCode": 2,
+        "registerationDate": "2003-06-12",
+        "parentIdentification": "8e835d01-7d3f-3a13-b7fe-14a8c4b14f07"
+    },
+    {
+        "parentAmount": 211,
+        "Currency": "USD",
+        "parentEmail": "parent62@example.com",
+        "statusCode": 3,
+        "registerationDate": "1995-04-12",
+        "parentIdentification": "bafb4e87-6e96-3ccd-8ec7-68d2bc0a7743"
+    },
+    {
+        "parentAmount": 904,
+        "Currency": "GBP",
+        "parentEmail": "parent63@example.com",
+        "statusCode": 1,
+        "registerationDate": "1988-08-21",
+        "parentIdentification": "24aa8338-03f1-372e-a44c-beb71a7867d0"
+    },
+    {
+        "parentAmount": 412,
+        "Currency": "AUD",
+        "parentEmail": "parent64@example.com",
+        "statusCode": 2,
+        "registerationDate": "2012-01-28",
+        "parentIdentification": "f749329b-21c0-3216-8fdc-1439cebcab1f"
+    },
+    {
+        "parentAmount": 699,
+        "Currency": "CAD",
+        "parentEmail": "parent65@example.com",
+        "statusCode": 1,
+        "registerationDate": "1972-12-14",
+        "parentIdentification": "85cee03f-00bf-327b-a5a3-747de0007559"
+    },
+    {
+        "parentAmount": 814,
+        "Currency": "EUR",
+        "parentEmail": "parent66@example.com",
+        "statusCode": 3,
+        "registerationDate": "2001-04-04",
+        "parentIdentification": "3883d8e0-84c4-37f5-b629-77ffdeabab01"
+    },
+    {
+        "parentAmount": 235,
+        "Currency": "USD",
+        "parentEmail": "parent67@example.com",
+        "statusCode": 1,
+        "registerationDate": "1998-04-03",
+        "parentIdentification": "cde4ae1c-c2ed-327b-859d-99599fd43364"
+    },
+    {
+        "parentAmount": 435,
+        "Currency": "EUR",
+        "parentEmail": "parent68@example.com",
+        "statusCode": 1,
+        "registerationDate": "2022-03-07",
+        "parentIdentification": "5d3753d1-53bc-3dc8-957f-21a329b1a58f"
+    },
+    {
+        "parentAmount": 617,
+        "Currency": "CAD",
+        "parentEmail": "parent69@example.com",
+        "statusCode": 1,
+        "registerationDate": "1973-08-10",
+        "parentIdentification": "cc3c5143-6ed0-346a-a1f9-744b15e5448b"
+    },
+    {
+        "parentAmount": 159,
+        "Currency": "GBP",
+        "parentEmail": "parent70@example.com",
+        "statusCode": 1,
+        "registerationDate": "1977-07-21",
+        "parentIdentification": "6afc6efc-6870-3e6a-bbe3-9a077f588ac7"
+    },
+    {
+        "parentAmount": 947,
+        "Currency": "CAD",
+        "parentEmail": "parent71@example.com",
+        "statusCode": 1,
+        "registerationDate": "2013-04-18",
+        "parentIdentification": "2276f750-0205-3b5f-a29c-41fab6c840cf"
+    },
+    {
+        "parentAmount": 859,
+        "Currency": "USD",
+        "parentEmail": "parent72@example.com",
+        "statusCode": 3,
+        "registerationDate": "2020-12-28",
+        "parentIdentification": "ad6900b6-ef3d-3a78-87e0-8950a9c33f02"
+    },
+    {
+        "parentAmount": 636,
+        "Currency": "AUD",
+        "parentEmail": "parent73@example.com",
+        "statusCode": 1,
+        "registerationDate": "1975-12-10",
+        "parentIdentification": "a53b09d9-e5bd-33a3-bc6f-6da382c0bcca"
+    },
+    {
+        "parentAmount": 728,
+        "Currency": "CAD",
+        "parentEmail": "parent74@example.com",
+        "statusCode": 3,
+        "registerationDate": "1991-02-19",
+        "parentIdentification": "9d909af3-567f-3fd0-9acb-8f3f5a41af75"
+    },
+    {
+        "parentAmount": 508,
+        "Currency": "USD",
+        "parentEmail": "parent75@example.com",
+        "statusCode": 3,
+        "registerationDate": "1976-04-29",
+        "parentIdentification": "394caeed-093e-3d6c-b1df-6e68fbce7552"
+    },
+    {
+        "parentAmount": 744,
+        "Currency": "USD",
+        "parentEmail": "parent76@example.com",
+        "statusCode": 2,
+        "registerationDate": "2008-09-07",
+        "parentIdentification": "a71967f6-5c40-3ef4-a120-351868e0e63e"
+    },
+    {
+        "parentAmount": 708,
+        "Currency": "USD",
+        "parentEmail": "parent77@example.com",
+        "statusCode": 2,
+        "registerationDate": "1970-01-10",
+        "parentIdentification": "2a669392-11e3-340e-85ba-3e6731ed7e0f"
+    },
+    {
+        "parentAmount": 693,
+        "Currency": "GBP",
+        "parentEmail": "parent78@example.com",
+        "statusCode": 1,
+        "registerationDate": "1975-01-01",
+        "parentIdentification": "b780d8e6-08c3-3d37-b19f-e30b00b9fe18"
+    },
+    {
+        "parentAmount": 230,
+        "Currency": "USD",
+        "parentEmail": "parent79@example.com",
+        "statusCode": 3,
+        "registerationDate": "1981-01-19",
+        "parentIdentification": "08bf9a73-a947-3263-a6d7-15b633380faf"
+    },
+    {
+        "parentAmount": 545,
+        "Currency": "AUD",
+        "parentEmail": "parent80@example.com",
+        "statusCode": 2,
+        "registerationDate": "1988-04-29",
+        "parentIdentification": "6c7082d8-8a63-3dfd-97aa-d220784acdfb"
+    },
+    {
+        "parentAmount": 568,
+        "Currency": "USD",
+        "parentEmail": "parent81@example.com",
+        "statusCode": 3,
+        "registerationDate": "1990-07-19",
+        "parentIdentification": "83b4ca37-f160-3e3e-94b1-e6c192f110d4"
+    },
+    {
+        "parentAmount": 264,
+        "Currency": "AUD",
+        "parentEmail": "parent82@example.com",
+        "statusCode": 2,
+        "registerationDate": "2000-11-12",
+        "parentIdentification": "321286f4-1804-34a6-9287-4f5124196670"
+    },
+    {
+        "parentAmount": 721,
+        "Currency": "USD",
+        "parentEmail": "parent83@example.com",
+        "statusCode": 1,
+        "registerationDate": "2020-11-24",
+        "parentIdentification": "509e7796-68f1-3005-a857-f9943e757e10"
+    },
+    {
+        "parentAmount": 980,
+        "Currency": "GBP",
+        "parentEmail": "parent84@example.com",
+        "statusCode": 1,
+        "registerationDate": "1977-03-18",
+        "parentIdentification": "e99a88c0-3e50-3e85-a892-f3a646dad65b"
+    },
+    {
+        "parentAmount": 124,
+        "Currency": "GBP",
+        "parentEmail": "parent85@example.com",
+        "statusCode": 1,
+        "registerationDate": "2007-02-03",
+        "parentIdentification": "b4650960-00c0-314f-be38-c02cc8e71a43"
+    },
+    {
+        "parentAmount": 931,
+        "Currency": "GBP",
+        "parentEmail": "parent86@example.com",
+        "statusCode": 3,
+        "registerationDate": "1997-08-22",
+        "parentIdentification": "1b1ce8dc-3837-33ea-af62-12fe260e033d"
+    },
+    {
+        "parentAmount": 161,
+        "Currency": "AUD",
+        "parentEmail": "parent87@example.com",
+        "statusCode": 3,
+        "registerationDate": "1993-05-14",
+        "parentIdentification": "9dbd5115-3b81-3329-9248-3a7da851822f"
+    },
+    {
+        "parentAmount": 638,
+        "Currency": "CAD",
+        "parentEmail": "parent88@example.com",
+        "statusCode": 3,
+        "registerationDate": "2000-07-12",
+        "parentIdentification": "d328d371-a25b-3558-9831-a6142575af6c"
+    },
+    {
+        "parentAmount": 802,
+        "Currency": "AUD",
+        "parentEmail": "parent89@example.com",
+        "statusCode": 2,
+        "registerationDate": "1978-12-06",
+        "parentIdentification": "32d622d7-9106-3621-a496-6d3e0bad6473"
+    },
+    {
+        "parentAmount": 368,
+        "Currency": "CAD",
+        "parentEmail": "parent90@example.com",
+        "statusCode": 3,
+        "registerationDate": "1986-06-22",
+        "parentIdentification": "5430bc34-704e-3906-b79c-627d88ed38ce"
+    },
+    {
+        "parentAmount": 676,
+        "Currency": "GBP",
+        "parentEmail": "parent91@example.com",
+        "statusCode": 2,
+        "registerationDate": "2015-09-10",
+        "parentIdentification": "934f21d8-a008-3508-b1ab-71b2a0910be5"
+    },
+    {
+        "parentAmount": 619,
+        "Currency": "AUD",
+        "parentEmail": "parent92@example.com",
+        "statusCode": 2,
+        "registerationDate": "1999-12-23",
+        "parentIdentification": "e039d456-f696-3052-b467-537d56023649"
+    },
+    {
+        "parentAmount": 938,
+        "Currency": "AUD",
+        "parentEmail": "parent93@example.com",
+        "statusCode": 1,
+        "registerationDate": "2011-08-04",
+        "parentIdentification": "054f45b8-b185-3bf5-aed7-0e169c962c6b"
+    },
+    {
+        "parentAmount": 722,
+        "Currency": "EUR",
+        "parentEmail": "parent94@example.com",
+        "statusCode": 3,
+        "registerationDate": "1995-12-08",
+        "parentIdentification": "c66f8502-ddb4-3980-856c-90dc1d7006e8"
+    },
+    {
+        "parentAmount": 481,
+        "Currency": "USD",
+        "parentEmail": "parent95@example.com",
+        "statusCode": 3,
+        "registerationDate": "1988-07-02",
+        "parentIdentification": "9789e301-2826-35d3-a019-86f62264ff82"
+    },
+    {
+        "parentAmount": 350,
+        "Currency": "CAD",
+        "parentEmail": "parent96@example.com",
+        "statusCode": 1,
+        "registerationDate": "1972-09-06",
+        "parentIdentification": "77025a1b-2af5-3fd4-8df6-a0a95602131f"
+    },
+    {
+        "parentAmount": 589,
+        "Currency": "CAD",
+        "parentEmail": "parent97@example.com",
+        "statusCode": 1,
+        "registerationDate": "1985-05-26",
+        "parentIdentification": "8d841517-7ece-3f45-b58b-141b066ca34f"
+    },
+    {
+        "parentAmount": 561,
+        "Currency": "USD",
+        "parentEmail": "parent98@example.com",
+        "statusCode": 2,
+        "registerationDate": "1976-10-15",
+        "parentIdentification": "dc07815f-59cd-3991-911b-d035c7942c7c"
+    },
+    {
+        "parentAmount": 833,
+        "Currency": "CAD",
+        "parentEmail": "parent99@example.com",
+        "statusCode": 2,
+        "registerationDate": "2021-11-28",
+        "parentIdentification": "748f6a26-d045-3382-a6bb-8b99cad4064b"
+    },
+    {
+        "parentAmount": 234,
+        "Currency": "GBP",
+        "parentEmail": "parent100@example.com",
+        "statusCode": 2,
+        "registerationDate": "2011-03-01",
+        "parentIdentification": "7f7c9cf9-539b-3b1b-89fc-bcfdd5758c00"
+    }
+]
